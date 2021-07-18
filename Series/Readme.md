@@ -35,3 +35,6 @@ A series can be created using various inputs like <br>
 > This was all about the basic and lets move on and check with attributes and methods of a series object
 
 1. <a href="https://github.com/Yaswant-Kumar-Singhi/Python_for_Data_Engineering/blob/main/Series/Series_Attributes_Methods-2.ipynb">Practical Examples on Attributes and methods - 2</a> <br>
+
+<p> Till now we, know about Series object creation from list, dict. We have also got some familiarity with attributes and methods associated with series. Now, can we create a custom series object having index and values as different list. Lets check <a href="https://github.com/Yaswant-Kumar-Singhi/Python_for_Data_Engineering/blob/main/Series/Arguments_Parameters-3.ipynb">Practical Example 3</a> for this and get a clear understanding of it. <br>
+  
