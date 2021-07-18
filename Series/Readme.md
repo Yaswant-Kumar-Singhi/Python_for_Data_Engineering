@@ -24,3 +24,8 @@ A series can be created using various inputs like <br>
 1.Array <br>
 2.Dict  <br> 
 3.Scalar value or constant
+<br>
+
+<p> Let's dive deeper by practical examples </p><br>
+1. <a href="https://github.com/Yaswant-Kumar-Singhi/Python_for_Data_Engineering/blob/main/Series/Create_first_series_object-1.ipynb">Practical Examples</a> <br>
+2. <a href="https://github.com/Yaswant-Kumar-Singhi/Python_for_Data_Engineering/blob/main/Series/Assignment-1.ipynb">Assignments</a> <br>
