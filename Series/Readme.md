@@ -27,5 +27,11 @@ A series can be created using various inputs like <br>
 <br>
 
 <p> Let's dive deeper by practical examples </p><br>
-1. <a href="https://github.com/Yaswant-Kumar-Singhi/Python_for_Data_Engineering/blob/main/Series/Create_first_series_object-1.ipynb">Practical Examples</a> <br>
+1. <a href="https://github.com/Yaswant-Kumar-Singhi/Python_for_Data_Engineering/blob/main/Series/Create_first_series_object-1.ipynb">Practical Examples - 1</a> <br>
 2. <a href="https://github.com/Yaswant-Kumar-Singhi/Python_for_Data_Engineering/blob/main/Series/Assignment-1.ipynb">Assignments</a> <br>
+
+<br>
+
+> This was all about the basic and lets move on and check with attributes and methods of a series object
+
+1. <a href="https://github.com/Yaswant-Kumar-Singhi/Python_for_Data_Engineering/blob/main/Series/Series_Attributes_Methods-2.ipynb">Practical Examples on Attributes and methods - 2</a> <br>
